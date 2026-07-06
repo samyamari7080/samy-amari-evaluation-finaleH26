@@ -31,3 +31,8 @@ npm run dev
 ## Auteur
 
 Samy Amari — Techniques de l'informatique, Hiver 2026
+## Liens de déploiement
+
+- Frontend : https://samy-amari-evaluation-finale-h26.vercel.app
+- Backend : https://samy-amari-evaluation-finaleh26.onrender.com
+- Documentation Swagger : https://samy-amari-evaluation-finaleh26.onrender.com/api-docs
